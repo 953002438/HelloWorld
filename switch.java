@@ -5,28 +5,28 @@ class Demo
 		switch(week)
 			{
 			case 1:
-			System.out.println(week+"¶ÔÓ¦µÄÊÇĞÇÆÚÒ»¡£");
+			System.out.println(week+"å¯¹åº”çš„æ˜¯æ˜ŸæœŸä¸€ã€‚");
 				break;
 			case 2:
-			System.out.println(week+"¶ÔÓ¦µÄÊÇĞÇÆÚ¶ş¡£");
+			System.out.println(week+"å¯¹åº”çš„æ˜¯æ˜ŸæœŸäºŒã€‚");
 				break;
 			case 3:
-			System.out.println(week+"¶ÔÓ¦µÄÊÇĞÇÆÚÈı¡£");
+			System.out.println(week+"å¯¹åº”çš„æ˜¯æ˜ŸæœŸä¸‰ã€‚");
 				break;
 			case 4:
-			System.out.println(week+"¶ÔÓ¦µÄÊÇĞÇÆÚËÄ¡£");
+			System.out.println(week+"å¯¹åº”çš„æ˜¯æ˜ŸæœŸå››ã€‚");
 				break;
 			case 5:
-			System.out.println(week+"¶ÔÓ¦µÄÊÇĞÇÆÚÎå¡£");
+			System.out.println(week+"å¯¹åº”çš„æ˜¯æ˜ŸæœŸäº”ã€‚");
 				break;
 			case 6:
-			System.out.println(week+"¶ÔÓ¦µÄÊÇĞÇÆÚÁù¡£");
+			System.out.println(week+"å¯¹åº”çš„æ˜¯æ˜ŸæœŸå…­ã€‚");
 				break;
 			case 7:
-			System.out.println(week+"¶ÔÓ¦µÄÊÇĞÇÆÚÌì¡£");
+			System.out.println(week+"å¯¹åº”çš„æ˜¯æ˜ŸæœŸå¤©ã€‚");
 				break;
 			default:
-			System.out.println(week+"Ã»ÓĞ¶ÔÓ¦µÄĞÇÆÚ¡£");
+			System.out.println(week+"æ²¡æœ‰å¯¹åº”çš„æ˜ŸæœŸ!");
 				break;
 			}
 	}
