@@ -1,6 +1,7 @@
 class Demo
 {public static void main(String[] args)
 	{
+		System.out.println("Hello World!");
 		int week=5;
 		switch(week)
 			{
